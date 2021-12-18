@@ -16,7 +16,7 @@ button {
     font-size: 20px;
 }
 
-.click button{
-background-image: url("cookie.png");
-background-size: cover;
+img{
+    height: 300px;
+    width: 300px;
 }
